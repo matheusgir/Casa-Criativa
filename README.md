@@ -1,10 +1,10 @@
 <h1 align="center">Casa Criativa</h1>
 <br>
 
-### Projeto criado durante o WorkshopDev, do curso da Rocketseat!
+<h2 align="center"> Projeto criado durante o WorkshopDev, do curso da Rocketseat! </h2>
 <br>
 
-## Site desenvolvido com a proposta de cadastrar ideias do que fazer durante a quarentena ou quando estiver sem ideias do que fazer.
+<h2> Site desenvolvido com a proposta de cadastrar ideias do que fazer durante a quarentena ou quando estiver sem ideias do que fazer. </h2>
 
 
 ## Projeto desenvolvido com as seguintes tecnologias:
@@ -17,17 +17,17 @@
 
 
 <p align="center">
-  <img src="Inicio.png" alt="Inicio" width="70%" height="70%">
+  <img src="Inicio.png" alt="Inicio">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="Ideias.png" alt="Ideias" width="70%" height="70%">
+  <img src="Ideias.png" alt="Ideias">
 </p>
 
 <p align="center">
-  <img src="NovaIdeia.png" alt="Nova Ideia" width="70%" height="70%">
+  <img src="NovaIdeia.png" alt="Nova Ideia">
 </p>
 
 
